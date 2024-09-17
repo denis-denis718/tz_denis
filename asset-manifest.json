@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tz_denis/static/css/main.e8d9ac5d.css",
+    "main.js": "/tz_denis/static/js/main.81d4cce8.js",
+    "static/js/453.59d9c1b3.chunk.js": "/tz_denis/static/js/453.59d9c1b3.chunk.js",
+    "index.html": "/tz_denis/index.html",
+    "main.e8d9ac5d.css.map": "/tz_denis/static/css/main.e8d9ac5d.css.map",
+    "main.81d4cce8.js.map": "/tz_denis/static/js/main.81d4cce8.js.map",
+    "453.59d9c1b3.chunk.js.map": "/tz_denis/static/js/453.59d9c1b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8d9ac5d.css",
+    "static/js/main.81d4cce8.js"
+  ]
+}
